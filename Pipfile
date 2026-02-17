@@ -17,9 +17,12 @@ gunicorn = "*"
 cloudinary = "*"
 flask-admin = "==2.0.0"
 typing-extensions = "*"
-flask-jwt-extended = "==4.6.0"
 wtforms = "==3.1.2"
 sqlalchemy = "*"
+requests = "*"
+flask-jwt-extended = "*"
+flask-socketio = "*"
+eventlet = "*"
 
 [requires]
 python_version = "3.13"
